@@ -1,0 +1,3 @@
+The Beale Cipher is a homophonic substitution cipher that replaces each letter in the plaintext with one or more corresponding symbols. In the implementation above, the user is prompted to input the plaintext. The key is predefined as a two-dimensional array where each row represents a letter of the alphabet and stores the corresponding symbols. The beale_cipher_encrypt function performs the encryption by looking up each letter in the key and printing the corresponding symbols. The encrypted text is then printed as the output.
+These implementations provide a simple understanding of the Vigenere cipher and Beale cipher. They are intended for educational purposes and may require additional error handling and input validation for production use.
+
